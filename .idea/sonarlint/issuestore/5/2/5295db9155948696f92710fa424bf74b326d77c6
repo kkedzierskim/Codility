@@ -1,0 +1,10 @@
+
+[squid:S1197"8Move the array designator from the variable to the type.(°´Ìïûÿÿÿÿ8«œœûÂ-
+usquid:S00117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ë½Îùÿÿÿÿ8ŸüÂ-
+Xsquid:S1854"5Remove this useless assignment to local variable "A".(°´Ìïûÿÿÿÿ8˜¢°üÂ-
+Isquid:S1481"&Remove this unused "A" local variable.(°´Ìïûÿÿÿÿ8˜¢°üÂ-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°´Ìïûÿÿÿÿ8«œœûÂ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(È”£™8˜¢°üÂ-
+hsquid:S1854"ERemove this useless assignment to local variable "currentDifference".(Ø‰úßøÿÿÿÿ8ŸüÂ-

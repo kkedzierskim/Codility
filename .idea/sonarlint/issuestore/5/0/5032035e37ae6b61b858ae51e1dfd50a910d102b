@@ -1,0 +1,8 @@
+
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦­îêùÿÿÿÿ8±Éå‘×-
+Xsquid:UselessImportCheck".Remove this unused import 'java.util.TreeSet'.(½îB8±Éå‘×-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Ğóÿÿÿÿÿ8±Éå‘×-
+Zsquid:UselessImportCheck"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8±Éå‘×-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³âÌøÿÿÿÿ8Åöè‘×-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Íµ‰üøÿÿÿÿ8½ˆê‘×-

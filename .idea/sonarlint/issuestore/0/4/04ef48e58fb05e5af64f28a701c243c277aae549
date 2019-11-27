@@ -1,0 +1,8 @@
+
+Usquid:S1197	"8Move the array designator from the variable to the type.(³¸¡n8·¡±ıÂ-
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8İŒıÂ-
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8İŒıÂ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(åÁÆ°øÿÿÿÿ8·¡±ıÂ-
+osquid:S00117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³¸¡n8·¡±ıÂ-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ¥Üßüÿÿÿÿ8ÎÁıÂ-

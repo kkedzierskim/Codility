@@ -1,0 +1,10 @@
+
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õé¨ûÿÿÿÿ8³¶¼ÒÂ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿øåî8™ĞÑÒÂ-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ë½Îùÿÿÿÿ8™ĞıÑÂ-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ Åüÿÿÿÿ8™ĞÑÒÂ-
+[squid:S1197"8Move the array designator from the variable to the type.(¸ Åüÿÿÿÿ8™ĞÑÒÂ-
+esquid:S00112 "FDefine and throw a dedicated exception instead of using a generic one.(•îåÚ8í¯ÁÒÂ-
+9squid:S3626"Remove this redundant jump.(ÉŠ©ƒ8ï«İÒÂ-
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÉ½D8³¶¼ÒÂ-

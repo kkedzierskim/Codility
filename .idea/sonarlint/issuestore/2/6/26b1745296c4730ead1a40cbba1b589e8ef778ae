@@ -1,0 +1,6 @@
+
+V
+squid:S106("9Replace this use of System.out or System.err by a logger.(‚¨Ö§8á‰×-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õà­ªùÿÿÿÿ8¾ÿõœ×-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ØÆıÿÿÿÿ8­ ÃŸ×-
+psquid:S00117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àñ·ß8˜âˆ×-
